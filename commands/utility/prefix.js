@@ -5,7 +5,7 @@ const { PREFIX } = require("../../config")
 module.exports = {
     config: {
         name: "prefix",
-        description: "Chnage/Know The server's Prefix or the Global Prefix",
+        description: "Change/Know The server's Prefix or the Global Prefix",
         usage: "m/prefix <new prefix/reset>",
         example: "1) m/prefix = \n2) m/prefix reset",
         aliases: ["prefix"]
